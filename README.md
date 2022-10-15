@@ -1,4 +1,4 @@
-# REACT.JS, FASTAPI & AWS CDK CHALLENGE
+# AWS CDK, REACT.JS & FASTAPI CHALLENGE
 
 [![Mikaeel Khalid](https://badgen.now.sh/badge/by/mikaeelkhalid/purple)](https://github.com/mikaeelkhalid)
 
