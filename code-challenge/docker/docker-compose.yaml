@@ -1,0 +1,19 @@
+version: '3.3'
+
+services:
+  frontend:
+    container_name: frontend_c
+    build:
+      context: ../frontend/
+      dockerfile: ./Dockerfile
+    ports:
+      - '127.0.0.1:3000:3000'
+
+  backend:
+    container_name: backend_c
+    build:
+      context: ../backend-api/
+      dockerfile: ./Dockerfile
+    ports:
+      - '127.0.0.1:8000:8000'
+
