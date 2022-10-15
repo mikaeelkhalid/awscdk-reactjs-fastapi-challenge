@@ -28,11 +28,3 @@ Backend: http://127.0.0.1:8000
 Backend with swagger: http://127.0.0.1:8000/docs
 ```
 
-## AWS Fargate ALB and React.js Endpoints
-
-```
-Frontend: http://navvis-challenge-front.s3-website-us-east-1.amazonaws.com
-Backend: http://navvi-navvi-1jkhkbgh3j750-1498965141.us-east-1.elb.amazonaws.com
-Backend with swagger: http://navvi-navvi-1jkhkbgh3j750-1498965141.us-east-1.elb.amazonaws.com/docs
-```
-
