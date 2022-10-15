@@ -1,4 +1,4 @@
-# NAVVIS CODE CHALLENGE
+# CODE CHALLENGE
 
 [![Mikaeel Khalid](https://badgen.now.sh/badge/by/mikaeelkhalid/purple)](https://github.com/mikaeelkhalid)
 
